@@ -1,3 +1,5 @@
+#Compare the performance between GPU and CPU.
+
 import numpy
 import time
 from numba import double, jit
