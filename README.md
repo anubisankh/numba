@@ -1,2 +1,2 @@
 # numba
-Testing numba (cuda) with different operations
+Testing numba with different operations
